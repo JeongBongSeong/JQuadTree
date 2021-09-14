@@ -3,7 +3,8 @@
 
 JQuadTree::JQuadTree()
 {
-
+	m_iWidth = 0.0f;
+	m_iHeight = 0.0f;
 };
 
 

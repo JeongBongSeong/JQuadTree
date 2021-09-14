@@ -2,12 +2,13 @@
 
 int main()
 {
+	JQuadTree field;
+	JObject player;
 
 
 
 
-
-	  
+	
 	
 
 

@@ -1,5 +1,5 @@
 #pragma once
-#include "JStd.h"
+
 #include"JVector2.h"
 
 class JRact

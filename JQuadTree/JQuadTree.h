@@ -1,4 +1,4 @@
-#include"JNode.h"
+#include"JStd.h"
 
 class JQuadTree
 {

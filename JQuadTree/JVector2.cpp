@@ -33,5 +33,3 @@ float JVector2::operator | (JVector2 pos)
 {
 	return (this->x * pos.x) + (this->y + pos.y);
 }
-
-
